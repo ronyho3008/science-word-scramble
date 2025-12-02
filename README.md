@@ -33,13 +33,9 @@ If the file is missing or empty, the game automatically falls back to a built-in
 A new `highscore.txt` file stores the highest score ever achieved.  
 When a player beats the previous record, the game saves the new high score.
 
-### 3. Better Error Handling  
-The game continues to run smoothly even if files are missing, corrupted, or empty.
-
-### 4. Cleaner and More Organized Code  
-Functions are separated clearly, making the project easier to read, maintain, and extend.
-
-These improvements use real file-handling techniques, as requested in the assignment.
+### 3. Immediate Feedback on Incorrect Answers  
+When the player guesses incorrectly, the game now displays the correct word.  
+This makes the game more educational and helps players learn new scientific terms.
 
 
 
