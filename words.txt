@@ -1,0 +1,17 @@
+proteasome
+ubiquitin
+ribosome
+chromatin
+nucleotide
+polymerase
+transcription
+translation
+mitochondria
+phosphorylation
+cytoskeleton
+autophagy
+helicase
+epigenetics
+kinase
+chaperone
+replication
