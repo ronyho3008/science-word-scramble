@@ -2,7 +2,6 @@
 
 A simple Python project where players try to unscramble biology and chemistry related words.
 This project is based on an earlier assignment and was converted into a standalone repository.
-![PIC](https://c8.alamy.com/comp/F2H55X/biology-word-representing-plant-life-and-wildlife-F2H55X.jpg)
 
 ---
 ## 🎮 How to Play
@@ -11,7 +10,14 @@ Run the game:
 
 ```bash
 python word_scramble.py
+```
+
+You will see a scrambled scientific word.
+Try to guess the original word!
+
+Type quit anytime to exit the game.
 
 
+![PIC](https://c8.alamy.com/comp/F2H55X/biology-word-representing-plant-life-and-wildlife-F2H55X.jpg)
 
 
