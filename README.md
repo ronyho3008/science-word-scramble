@@ -21,3 +21,25 @@ Type quit anytime to exit the game.
 ![PIC](https://c8.alamy.com/comp/F2H55X/biology-word-representing-plant-life-and-wildlife-F2H55X.jpg)
 
 
+## 🔧 Improvements Added
+
+This project includes several enhancements beyond the original assignment:
+
+### 1. Loading Words from a File  
+The game now loads scientific words from an external file (`words.txt`).  
+If the file is missing or empty, the game automatically falls back to a built-in word list.
+
+### 2. High Score System  
+A new `highscore.txt` file stores the highest score ever achieved.  
+When a player beats the previous record, the game saves the new high score.
+
+### 3. Better Error Handling  
+The game continues to run smoothly even if files are missing, corrupted, or empty.
+
+### 4. Cleaner and More Organized Code  
+Functions are separated clearly, making the project easier to read, maintain, and extend.
+
+These improvements use real file-handling techniques, as requested in the assignment.
+
+
+
